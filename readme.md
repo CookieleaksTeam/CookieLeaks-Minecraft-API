@@ -21,7 +21,6 @@ Table of Contents
 ### Maven/Repo
 ```
 <repositories>
-  ...
   <repository>
     <id>CookieLeaks-Minecraft-API</id>
     <name>CookieLeaks Client Minecraft API</name>
