@@ -1,0 +1,7 @@
+name: CookieLeaksAPI
+version: '${project.version}'
+main: de.cookieleaks.minecraftapi.MinecraftAPI
+api-version: 1.19
+authors: [ Powerkeks ]
+description: API von CookieLeaks
+website: github.com/FPowerkeks
